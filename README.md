@@ -9,5 +9,4 @@ You can help type out and submit chapters. That would really help the developmen
 ### 2.
 You can read the chapters in this repository, and put in an issue report on such things as typos,\
 inaccuracy, and false text (we ***especially*** do not want that!).\
-That way the contributors can quickly locate problems and fix them.\
-###
+That way the contributors can quickly locate problems and fix them.
