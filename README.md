@@ -6,6 +6,7 @@ That's why we need your help!
 The way you help is by reading what is in here, comparing it to an authentic KJV Bible as you go.  
 If you find a typo, misplaced or misnamed chapter, or worse, a fake text (***really*** bad), you can  
 submit an Issue, and we will try to fix it!  
+
 ## Finished Chapters and Books:
 - Old Testament
     - Job:
@@ -17,7 +18,6 @@ submit an Issue, and we will try to fix it!
     - Hebrews:
         - Chapter 11
     - 2nd John
-
 
 (Note: This is my first experience with GitHub, and will be improving the README, adding a license,  
 changing organization technique, etc.)
