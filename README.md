@@ -7,7 +7,7 @@ The way you help is by reading what is in here, comparing it to an authentic KJV
 If you find a typo, misplaced or misnamed chapter, or worse, a fake text (***really*** bad), you can  
 submit an Issue, and we will try to fix it!  
 
-## Finished Chapters and Books:
+## Finished Chapters:
 - Old Testament
     - Job:
         - Chapter 37
