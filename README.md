@@ -19,5 +19,5 @@ submit an Issue, and we will try to fix it!
         - Chapter 11
     - 2nd John
 
-(Note: This is my first experience with GitHub, and will be improving the README, editing the license (if needed),  
+(Note: This is my first experience with GitHub, and will be editing the README, editing the license (if needed),  
 changing organization technique, etc.)
