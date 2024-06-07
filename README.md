@@ -9,6 +9,8 @@ submit an Issue, and we will try to fix it!
 
 ## Finished Chapters:
 - Old Testament
+    - Leviticus
+        - Chapter 1
     - Job:
         - Chapter 37
     - Psalms:

@@ -1,10 +1,14 @@
 # License for KJV-Bible-in-txt-project
 Copyright © 2024 GitHubUser-2  
+Copyright pertains to the package as a whole. I DO NOT CLAIM TO BE THE CREATOR OR COPYRIGHT HOLDER OF THE KING JAMES VERSION OF THE BIBLE.  
+
 Permission is hereby granted to the licensee and user (the USER) of this package
 to distribute, modify, and copy this package under the following conditions:
 ### Distribution
-The USER may distribute copies of this package, provided that it is not sold, and that this license is provided with it.
-It must also contain all of the original files provided, with the source of this package (https://github.com/GitHubUser-2/KJV-Bible-in-txt-project) being named also.
+The USER may distribute copies of this package as a whole, provided that it is not sold, and that this license is provided with it.
+It must also contain all of the original files provided, with the source of this package (https://github.com/GitHubUser-2/KJV-Bible-in-txt-project) being named also.  
+
+The text files themselves may be redistributed without permission, without naming the source of this package, in bulk or singular form, and without the license.
 ### Modification
 The USER is granted permission to modify this package, assuming that the modifications hold true with the original King James Version Bible.
 ### Copying
@@ -22,5 +26,6 @@ OUT OF OR IN CONNECTION WITH THIS PACKAGE OR THE USE OR OTHER DEALINGS IN THIS
 PACKAGE.
 \
 I DO NOT CLAIM TO BE THE CREATOR OR COPYRIGHT HOLDER OF THE KING JAMES VERSION OF THE BIBLE.
+THE COPYRIGHT IN THE FIRST LINE IS FOR EVERYTHING *EXCLUDING* THE BIBLE TEXT ITSELF.
 THE KING JAMES VERSION BIBLE IS IN THE PUBLIC DOMAIN IN MOST COUNTRIES.
 THE USER IS EXPECTED TO BE RESPONSIBLE WITH THESE FILES
