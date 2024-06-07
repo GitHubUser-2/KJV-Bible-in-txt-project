@@ -11,15 +11,12 @@ submit an Issue, and we will try to fix it!
 - Old Testament
     - Leviticus
         - Chapter 1
-    - Job:
+    - Job
         - Chapter 37
-    - Psalms:
+    - Psalms
         - Chapter 122
 
 - New Testament
-    - Hebrews:
+    - Hebrews
         - Chapter 11
     - 2nd John
-
-(Note: This is my first experience with GitHub, and will be editing the README, editing the license (if needed),  
-changing organization technique, etc.)
