@@ -20,3 +20,6 @@ submit an Issue, and we will try to fix it!
     - Hebrews
         - Chapter 11
     - 2nd John
+
+### Possible Upcoming HTML Files
+I am considering writing some HTML, maybe even JS, to make casually navigating these files easier.
