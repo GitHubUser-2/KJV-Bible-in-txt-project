@@ -17,6 +17,8 @@ submit an Issue, and we will try to fix it!
         - Chapter 122
 
 - New Testament
+    - 1st Corinthians
+        - Chapter 6
     - Hebrews
         - Chapter 11
     - 2nd John
