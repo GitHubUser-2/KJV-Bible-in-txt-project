@@ -9,12 +9,17 @@ submit an Issue, and we will try to fix it!
 
 ## Finished Chapters:
 - Old Testament
+    - Exodus
+        - Chapter 20
     - Leviticus
         - Chapter 1
+    - 2nd Samuel
+        - Chapter 12
     - Job
         - Chapter 37
     - Psalms
         - Chapter 122
+        - Chapter 125
 
 - New Testament
     - 1st Corinthians
